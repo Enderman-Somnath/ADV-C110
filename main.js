@@ -1,0 +1,1 @@
+//https://teachablemachine.withgoogle.com/models/2DqQobRfX/model.json this is not a url as it is not a link
